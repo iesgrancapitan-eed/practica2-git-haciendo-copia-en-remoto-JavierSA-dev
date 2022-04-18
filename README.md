@@ -18,3 +18,11 @@
     El resultado en github sería este:
 
     ![4](img/4.png)
+
+4. En local (no debes trabajar en el remoto) y siempre desde git Bash añade el fichero README.md con estas instrucciones y sus pantallazos.
+
+    ![5](img/5.png)
+
+5. Sincroniza tus cambios con el repositorio remoto (git push)
+
+    ![6](img/6.png)
